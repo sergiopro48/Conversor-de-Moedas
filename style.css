@@ -1,0 +1,140 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: "Roboto", sans-serif;
+     outline: none;
+
+ }
+
+ body {
+     background-image:  url(./assets/fundo.jpg);
+     background-size: 100%;
+ }
+
+ .logo {
+     width: 300px;
+     display: block;
+     margin: 20px auto;
+ }
+
+ main {
+     width: 375px;
+     border-radius: 20px;
+     background: rgba(240,248,255);
+     margin: 0 auto 40px;
+     padding: 44px 24px 23px;
+ }
+
+ label {
+     color: #777777;
+     font-size: 14px;
+     font-weight: 400;
+
+ }
+
+ select, input {
+     background: rgba(255, 255, 255, 1);
+     border: 1px solid rgba(187, 187, 187, 1);
+     height: 48px;
+     Width: 100%;
+     margin-bottom: 24px;
+     appearance: none;
+     padding-left: 18px;
+     font-size: 16px;
+     font-weight: 700;
+     color: #555555;
+     cursor: pointer;
+ }
+
+ button {
+     width: 100%;
+     border-radius: 5px;
+     cursor: pointer;
+     background: rgba(30,144,255);
+     border: none;
+     Height: 48px;
+     color: #ffffff;
+     font-size: 18px;
+     font-weight: 700;
+}
+
+ button:hover {
+     opacity: 0.8;
+ }
+
+ button:active {
+     opacity: 0.6;
+ }
+
+ section {
+     border-radius: 20px;
+     border: 1px solid rgba(30,144,255);
+     margin-top: 36px;
+     padding: 12px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     }
+     
+
+ .arrow-blues {
+     margin:15px 0;
+     
+ }
+
+ .currency-box {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 4px;
+     
+ }
+
+ .currency {
+     color: #777777;
+     font-size: 14px;
+     
+}
+
+ .currency-value, .currency-value-to-convert {
+     color: #555555;
+     font-size: 20px;
+     font-weight: 700;
+     
+}
+
+@media screen and (max-width:1000px) {
+    body {
+        width: 100%;
+
+    }
+
+    .logo {
+        max-width: 200px;
+    }
+
+    main {
+        width: 90%;
+    }
+
+
+
+    @media screen and (max-width: 540px) {
+
+        body {
+            width: 100%;
+
+        }
+
+        main {
+            width: 70%;
+        }
+
+        .logo {
+            max-width: 180px;
+        }
+    }
+
+}
+ 
