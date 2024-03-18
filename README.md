@@ -8,3 +8,5 @@ Foi usado nele os seguintes codigos: HTML, CSS e JavaScript.<h1>
 <img src="https://github.com/sergiopro48/Conversor-de-Moedas/blob/main/assets/computador.jpg?raw=true"/>
 
 <img src="https://github.com/sergiopro48/Conversor-de-Moedas/blob/main/assets/tablat.png?raw=true"/>
+
+<img src="https://github.com/sergiopro48/Conversor-de-Moedas/blob/main/assets/celular%20can.png?raw=true"/>
