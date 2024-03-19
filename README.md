@@ -3,4 +3,4 @@
   <br>
 Ele permite que os usuários convertam valores de uma moeda para outra de forma fácil e rápida !
   <br>
-Foi usado nele os seguintes codigos: HTML, CSS e JavaScript.<h1>
+Foi usado nele as seguintes tecnologias: HTML, CSS e JavaScript.<h1>
