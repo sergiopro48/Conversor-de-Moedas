@@ -3,7 +3,13 @@
   
 Ele permite que os usuários convertam valores de uma moeda para outra de forma fácil e rápida !
 
-Foi usado nele os seguintes codigos: HTML, CSS e JavaScript.<h1>
+Foi usado nele as seguintes tecnologias: 
+<br>
+-HTML
+<br>
+-CSS 
+<br>
+-JavaScript.<h1>
 <h1>DESKTOP</h1>
 
 
