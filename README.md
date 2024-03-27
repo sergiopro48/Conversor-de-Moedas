@@ -1,7 +1,7 @@
 <h1>🏦Conversor de Moedas!💱</h1>
 <h1>Este foi mais um projeto que aprendi na instituição de ensino <a href="rodolfomori.com.br/devclub">DevClub</a> e tem a finalidade de converter moedas de "Real Brasileiro" para: Dolar,Euro e Libras. 
   
-Ele permite que os usuários convertam valores de uma moeda para outra de forma fácil e rápida !
+Ele permite que os usuários convertam valores de uma moeda para outra de forma rápida e fácil !
 
 Foi usado nele as seguintes tecnologias: 
 <br>
