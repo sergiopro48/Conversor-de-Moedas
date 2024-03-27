@@ -7,9 +7,9 @@ Foi usado nele as seguintes tecnologias:
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" alt=html-logo width="80px" />
 <br>
--CSS 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt=css-logo  width="80px" />
 <br>
--JavaScript.<h1>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt=javaScript-logo width="120px"  />
 <h1>DESKTOP</h1>
 
 <img src="https://github.com/sergiopro48/Conversor-de-Moedass/blob/main/assets/desktop.jpg"/>
