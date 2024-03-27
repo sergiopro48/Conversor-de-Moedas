@@ -5,7 +5,7 @@ Ele permite que os usuários convertam valores de uma moeda para outra de forma 
 
 Foi usado nele as seguintes tecnologias: 
 <br>
--HTML
+<img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" alt=html-logo width="80px" />
 <br>
 -CSS 
 <br>
